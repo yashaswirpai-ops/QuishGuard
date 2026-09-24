@@ -1,1 +1,6 @@
-
+streamlit
+requests
+pyzbar
+pdf2image
+Pillow
+python-dotenv
